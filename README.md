@@ -1,3 +1,4 @@
+CODE WARS KATA
 # Number-of-People-in-the-Bus
 
 There is a bus moving in the city which takes and drops some people at each bus stop.
